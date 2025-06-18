@@ -32,5 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "🤖 Commit forcé $(date -u +%F)" 
-          git push
+          git add .
+          git commit -m "Ajout initial du fichier stock.json"
+          git push origin main
+
