@@ -19,7 +19,11 @@ headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
 }
-
+def read_products_file():
+    print("reading products file")
+    with open("../products.json", "r", encoding="utf-8") as f:
+        for l in f:
+            print(l)
 
 USR = os.getenv("USR")
 PSSWRD = os.getenv("PSSWRD")
@@ -53,7 +57,7 @@ response = session.post(
     data=payload,
 )
 data_json = response.json()
-
+read_products_file()
 # Étape 3 : Nettoyage et structuration
 def extraire_infos_produit(row):
     produit = {
@@ -88,3 +92,5 @@ with open("../products.json", "w", encoding="utf-8") as f:
     json.dump(produits_nets, f, indent=2, ensure_ascii=False)
 
 print(f"{len(produits_nets)} produits exportés vers 'products.json'")
+
+read_products_file()
