@@ -23,7 +23,8 @@ headers = {
 
 USR = os.getenv("USR")
 PSSWRD = os.getenv("PSSWRD")
-
+print(USR)
+print(PSSWRD)
 session = requests.Session()
 login_page = session.get(url, headers=headers)
 soup = BeautifulSoup(login_page.text, "html.parser")
@@ -50,7 +51,7 @@ response = session.post(
     headers=headers,
     data=payload,
 )
-
+print(response.text)
 data_json = response.json()
 
 # Étape 3 : Nettoyage et structuration
