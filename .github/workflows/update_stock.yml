@@ -28,11 +28,10 @@ jobs:
           PSSWRD: ${{ secrets.PSSWRD }}
         run: python scripts/fetch_stock.py
 
-      - name: Commit si changement de products.json
+      - name: Commit si changement de stock.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Ajout initial du fichier stock.json"
-          git push origin main
-
+          git add products.json
+          git commit -am "🤖 Commit forcé $(date -u +%F)" || echo "Aucun changement à committer"
+          git push

@@ -88,9 +88,8 @@ def extraire_infos_produit(row):
 produits_nets = [extraire_infos_produit(row) for row in data_json["aaData"]]
 
 # Étape 4 : Sauvegarde dans un fichier JSON
-with open("../products.json", "w", encoding="utf-8") as f:
+with open("products.json", "w", encoding="utf-8") as f:
     json.dump(produits_nets, f, indent=2, ensure_ascii=False)
 
 print(f"{len(produits_nets)} produits exportés vers 'products.json'")
 
-read_products_file()
