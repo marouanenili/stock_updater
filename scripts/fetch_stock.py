@@ -39,9 +39,6 @@ login_response = session.post(login_url,headers=headers,data=payload)
 
 
 print("Login Status:", login_response.status_code)
-print("USERNAME PSSWRD :")
-print(USR)
-print(PSSWRD)
 print("Redirect:", login_response.headers.get("Location"))
 print("Session cookies:", session.cookies.get_dict())
 print(login_response.headers)
@@ -55,7 +52,6 @@ response = session.post(
     headers=headers,
     data=payload,
 )
-print(response.text)
 data_json = response.json()
 
 # Étape 3 : Nettoyage et structuration
