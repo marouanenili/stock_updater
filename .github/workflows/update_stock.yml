@@ -2,7 +2,7 @@ name: Update Stock
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # Tous les jours à 02h00 UTC
+    - cron: "* * * * *"  # Tous les jours à 02h00 UTC
   workflow_dispatch:     # Permet de le lancer manuellement aussi
 
 jobs:
