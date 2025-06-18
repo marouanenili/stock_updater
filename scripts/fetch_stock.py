@@ -23,8 +23,7 @@ headers = {
 
 USR = os.getenv("USR")
 PSSWRD = os.getenv("PSSWRD")
-print(USR)
-print(PSSWRD)
+
 session = requests.Session()
 login_page = session.get(url, headers=headers)
 soup = BeautifulSoup(login_page.text, "html.parser")
@@ -37,7 +36,12 @@ payload = {
 
 }
 login_response = session.post(login_url,headers=headers,data=payload)
+
+
 print("Login Status:", login_response.status_code)
+print("USERNAME PSSWRD :")
+print(USR)
+print(PSSWRD)
 print("Redirect:", login_response.headers.get("Location"))
 print("Session cookies:", session.cookies.get_dict())
 print(login_response.headers)
