@@ -27,7 +27,8 @@ def read_products_file():
 
 USR = os.getenv("USR")
 PSSWRD = os.getenv("PSSWRD")
-
+print(USR)
+print(PSSWRD)
 session = requests.Session()
 login_page = session.get(url, headers=headers)
 soup = BeautifulSoup(login_page.text, "html.parser")
