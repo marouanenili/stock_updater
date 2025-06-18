@@ -21,14 +21,13 @@ headers = {
 }
 def read_products_file():
     print("reading products file")
-    with open("../products.json", "r", encoding="utf-8") as f:
+    with open("products.json", "r", encoding="utf-8") as f:
         for l in f:
             print(l)
 
 USR = os.getenv("USR")
 PSSWRD = os.getenv("PSSWRD")
-print(USR)
-print(PSSWRD)
+
 session = requests.Session()
 login_page = session.get(url, headers=headers)
 soup = BeautifulSoup(login_page.text, "html.parser")
