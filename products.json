@@ -428,7 +428,7 @@
     "categorie": "Alimentation carburant",
     "prix_achat": 533.5,
     "prix_vente": 650.0,
-    "stock": 2.0,
+    "stock": 1.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15953",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -658,6 +658,20 @@
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
   {
+    "id": "19323",
+    "image": "no_image.png",
+    "code": "L1D",
+    "nom": "BATTERIE L1D /PROF",
+    "reference": "",
+    "categorie": "Allumage / préchauffage",
+    "prix_achat": 550.0,
+    "prix_vente": 700.0,
+    "stock": 4.0,
+    "unite": "Pc",
+    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/19323",
+    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
+  },
+  {
     "id": "9104",
     "image": "no_image.png",
     "code": "L1D/ENERGIZER",
@@ -694,7 +708,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 615.0,
     "prix_vente": 750.0,
-    "stock": 1.0,
+    "stock": 11.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/19194",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
