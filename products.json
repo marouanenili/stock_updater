@@ -140,6 +140,20 @@
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
   {
+    "id": "14329",
+    "image": "no_image.png",
+    "code": "39A6",
+    "nom": "BATTERIE VARTA AGM L4D",
+    "reference": "",
+    "categorie": "Allumage / préchauffage",
+    "prix_achat": 2100.0,
+    "prix_vente": 2500.0,
+    "stock": 0.0,
+    "unite": "Pc",
+    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/14329",
+    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
+  },
+  {
     "id": "17492",
     "image": "no_image.png",
     "code": "39A7",
@@ -190,7 +204,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 902.05,
     "prix_vente": 1050.0,
-    "stock": 7.0,
+    "stock": 6.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/13722",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -207,20 +221,6 @@
     "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/18852",
-    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
-  },
-  {
-    "id": "14329",
-    "image": "no_image.png",
-    "code": "39E46",
-    "nom": "BATTERIE VARTA AGM L4D",
-    "reference": "",
-    "categorie": "Allumage / préchauffage",
-    "prix_achat": 2090.0,
-    "prix_vente": 2300.0,
-    "stock": 0.0,
-    "unite": "Pc",
-    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/14329",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
   {
@@ -708,7 +708,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 615.0,
     "prix_vente": 750.0,
-    "stock": 7.0,
+    "stock": 6.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/19194",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -750,7 +750,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 700.0,
     "prix_vente": 850.0,
-    "stock": 1.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/11288",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
