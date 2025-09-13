@@ -484,7 +484,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 861.0,
     "prix_vente": 1050.0,
-    "stock": 1.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/16398",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -730,13 +730,13 @@
   {
     "id": "6458",
     "image": "no_image.png",
-    "code": "L3D BO/KSIR",
+    "code": "L3D BOCH",
     "nom": "BATTERIE L3D BOSCH/S3007/FORD",
     "reference": "L3D EC700",
     "categorie": "Allumage / préchauffage",
-    "prix_achat": 850.0,
-    "prix_vente": 1050.0,
-    "stock": 0.0,
+    "prix_achat": 860.0,
+    "prix_vente": 1000.0,
+    "stock": 10.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/6458",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -764,7 +764,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 650.0,
     "prix_vente": 800.0,
-    "stock": 76.0,
+    "stock": 75.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/12911",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
