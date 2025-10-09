@@ -148,7 +148,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 2100.0,
     "prix_vente": 2500.0,
-    "stock": 1.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/14329",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -426,9 +426,9 @@
     "nom": "BATTERIE  E2D AUTO PRO",
     "reference": "",
     "categorie": "Alimentation carburant",
-    "prix_achat": 533.5,
+    "prix_achat": 533.0,
     "prix_vente": 650.0,
-    "stock": 1.0,
+    "stock": 9.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15953",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
