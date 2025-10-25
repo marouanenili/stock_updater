@@ -148,7 +148,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 2100.0,
     "prix_vente": 2500.0,
-    "stock": 1.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/14329",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -232,7 +232,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 1203.11,
     "prix_vente": 1500.0,
-    "stock": 1.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/11546",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
@@ -722,7 +722,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 660.0,
     "prix_vente": 800.0,
-    "stock": 4.0,
+    "stock": 3.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/16678",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
