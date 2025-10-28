@@ -504,20 +504,6 @@
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
   {
-    "id": "10750",
-    "image": "no_image.png",
-    "code": "BSB70L",
-    "nom": "BATTERIE VARTA AGM L3D AGM",
-    "reference": "",
-    "categorie": "Allumage / préchauffage",
-    "prix_achat": 1567.0,
-    "prix_vente": 2000.0,
-    "stock": 0.0,
-    "unite": "Pc",
-    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/10750",
-    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
-  },
-  {
     "id": "11012",
     "image": "no_image.png",
     "code": "BX7096",
@@ -784,20 +770,6 @@
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
   {
-    "id": "17400",
-    "image": "no_image.png",
-    "code": "L4D AGM",
-    "nom": "BATTERIE L4D STAR STOP BOSCH/AGM/S5A11",
-    "reference": "",
-    "categorie": "Allumage / préchauffage",
-    "prix_achat": 1900.0,
-    "prix_vente": 2200.0,
-    "stock": 0.0,
-    "unite": "Pc",
-    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/17400",
-    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
-  },
-  {
     "id": "14376",
     "image": "no_image.png",
     "code": "L5D AD",
@@ -977,6 +949,34 @@
     "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/13583",
+    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
+  },
+  {
+    "id": "10750",
+    "image": "no_image.png",
+    "code": "S5A08",
+    "nom": "BATTERIE VARTA AGM L3D AGM",
+    "reference": "L3D AGM BO",
+    "categorie": "Allumage / préchauffage",
+    "prix_achat": 1605.5,
+    "prix_vente": 1900.0,
+    "stock": 1.0,
+    "unite": "Pc",
+    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/10750",
+    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
+  },
+  {
+    "id": "17400",
+    "image": "no_image.png",
+    "code": "S5A11",
+    "nom": "BATTERIE L4D STAR STOP BOSCH/AGM/S5A11",
+    "reference": "L4D AGM /BO",
+    "categorie": "Allumage / préchauffage",
+    "prix_achat": 1940.0,
+    "prix_vente": 2300.0,
+    "stock": 1.0,
+    "unite": "Pc",
+    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/17400",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
   {
