@@ -1,9 +1,4 @@
 [
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": "9860",
     "image": "no_image.png",
@@ -32,17 +27,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9724",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": "10282",
     "image": "no_image.png",
@@ -71,11 +55,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9369",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": "9130",
     "image": "no_image.png",
@@ -104,7 +83,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9410",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
   {
     "id": "9372",
     "image": "no_image.png",
@@ -119,9 +97,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9372",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
-  null,
   {
     "id": "9715",
     "image": "no_image.png",
@@ -136,15 +111,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9715",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": "10320",
     "image": "no_image.png",
@@ -173,7 +139,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/16581",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
   {
     "id": "15952",
     "image": "no_image.png",
@@ -188,7 +153,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15952",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
   {
     "id": "9104",
     "image": "no_image.png",
@@ -203,9 +167,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9104",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
-  null,
   {
     "id": "6458",
     "image": "no_image.png",
@@ -220,13 +181,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/6458",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
-  null,
   {
     "id": "9320",
     "image": "no_image.png",
@@ -297,7 +251,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9474",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
   {
     "id": "9370",
     "image": "no_image.png",
@@ -312,8 +265,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9370",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
-  null,
   {
     "id": "10750",
     "image": "no_image.png",
@@ -342,7 +293,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/17400",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
   },
-  null,
   {
     "id": "9083",
     "image": "no_image.png",
@@ -356,6 +306,5 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9083",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png"
-  },
-  null
+  }
 ]
