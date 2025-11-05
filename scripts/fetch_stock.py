@@ -94,7 +94,7 @@ produits_filtré = [p for p in produits_nets if p != null]
 
 # Étape 4 : Sauvegarde dans un fichier JSON
 with open("products.json", "w", encoding="utf-8") as f:
-    json.dump(produits_nets, f, indent=2, ensure_ascii=False)
+    json.dump(produits_filtré, f, indent=2, ensure_ascii=False)
 
 print(f"{len(produits_nets)} produits exportés vers 'products.json'")
 
