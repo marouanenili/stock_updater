@@ -73,6 +73,7 @@ def extraire_infos_produit(row):
         "unite": row[10]
     }
     if produit["reference"][:4] == "0000" or produit["reference"] == "":
+        print("produit non pris en compte reference:)
         return
 
     soup = BeautifulSoup(row[13], "html.parser")
