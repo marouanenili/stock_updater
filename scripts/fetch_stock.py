@@ -72,6 +72,8 @@ def extraire_infos_produit(row):
         "stock": float(row[9]) if row[9] else None,
         "unite": row[10]
     }
+    if produit["reference"][:4] == "0000" or produit["reference"] == "":
+        return
 
     soup = BeautifulSoup(row[13], "html.parser")
     liens = soup.find_all("a")
