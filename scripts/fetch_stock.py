@@ -70,7 +70,8 @@ def extraire_infos_produit(row):
         "prix_achat": float(row[7]) if row[7] else None,
         "prix_vente": float(row[8]) if row[8] else None,
         "stock": float(row[9]) if row[9] else None,
-        "unite": row[10]
+        "unite": row[10],
+    
     }
     if produit["reference"][:4] == "0000" or produit["reference"] == "":
         print(f"produit non pris en compte reference: %s",produit["reference"])
@@ -91,6 +92,8 @@ def extraire_infos_produit(row):
 produits_nets = [extraire_infos_produit(row) for row in data_json["aaData"]]
 
 produits_filtré = [p for p in produits_nets if p]
+for p in produits_filtré:
+    p["marge"] = (p["prix_vente"] - p["prix_achat"]) / p["prix_achat"]
 
 # Étape 4 : Sauvegarde dans un fichier JSON
 with open("products.json", "w", encoding="utf-8") as f:
