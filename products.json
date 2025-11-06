@@ -12,7 +12,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9860",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.11538461538461539
+    "marge": "11.5%"
   },
   {
     "id": "9724",
@@ -27,7 +27,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9724",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.1794871794871795
+    "marge": "17.9%"
   },
   {
     "id": "10282",
@@ -42,7 +42,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/10282",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.1948529411764706
+    "marge": "19.4%"
   },
   {
     "id": "9369",
@@ -57,7 +57,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9369",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.22672723194257519
+    "marge": "22.6%"
   },
   {
     "id": "9130",
@@ -72,7 +72,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9130",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.32653061224489793
+    "marge": "32.6%"
   },
   {
     "id": "9410",
@@ -87,7 +87,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9410",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.3253012048192771
+    "marge": "32.5%"
   },
   {
     "id": "9372",
@@ -102,7 +102,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9372",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.23076923076923078
+    "marge": "23.0%"
   },
   {
     "id": "9715",
@@ -117,7 +117,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9715",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.4666666666666667
+    "marge": "46.6%"
   },
   {
     "id": "10320",
@@ -132,7 +132,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/10320",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.2560386473429952
+    "marge": "25.6%"
   },
   {
     "id": "16581",
@@ -147,7 +147,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/16581",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.21621621621621623
+    "marge": "21.6%"
   },
   {
     "id": "15952",
@@ -162,7 +162,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15952",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.18181818181818182
+    "marge": "18.1%"
   },
   {
     "id": "9104",
@@ -177,7 +177,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9104",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.1864406779661017
+    "marge": "18.6%"
   },
   {
     "id": "6458",
@@ -192,7 +192,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/6458",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.16279069767441862
+    "marge": "16.2%"
   },
   {
     "id": "9320",
@@ -207,7 +207,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9320",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.20772946859903385
+    "marge": "20.7%"
   },
   {
     "id": "9371",
@@ -222,7 +222,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9371",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.24434389140271492
+    "marge": "24.4%"
   },
   {
     "id": "9409",
@@ -237,7 +237,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9409",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.18181818181818182
+    "marge": "18.1%"
   },
   {
     "id": "9475",
@@ -252,7 +252,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9475",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.1320754716981132
+    "marge": "13.2%"
   },
   {
     "id": "9474",
@@ -267,7 +267,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9474",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.21621621621621623
+    "marge": "21.6%"
   },
   {
     "id": "9370",
@@ -282,7 +282,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9370",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.1619718309859155
+    "marge": "16.1%"
   },
   {
     "id": "10750",
@@ -297,7 +297,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/10750",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.1834319526627219
+    "marge": "18.3%"
   },
   {
     "id": "17400",
@@ -312,7 +312,7 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/17400",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.18556701030927836
+    "marge": "18.5%"
   },
   {
     "id": "9083",
@@ -327,6 +327,6 @@
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9083",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": 0.20967741935483872
+    "marge": "20.9%"
   }
 ]
