@@ -93,7 +93,7 @@ produits_nets = [extraire_infos_produit(row) for row in data_json["aaData"]]
 
 produits_filtré = [p for p in produits_nets if p]
 for p in produits_filtré:
-    p["marge"] = (p["prix_vente"] - p["prix_achat"]) / p["prix_achat"]
+    p["marge"] = str((p["prix_vente"] - p["prix_achat"])*100 / p["prix_achat"])[:4] + "%"
 
 # Étape 4 : Sauvegarde dans un fichier JSON
 with open("products.json", "w", encoding="utf-8") as f:
