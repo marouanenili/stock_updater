@@ -188,7 +188,7 @@
     "categorie": "Allumage / préchauffage",
     "prix_achat": 860.0,
     "prix_vente": 1000.0,
-    "stock": 4.0,
+    "stock": 3.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/6458",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
@@ -291,13 +291,13 @@
     "nom": "BATTERIE VARTA AGM L3D AGM",
     "reference": "L3D AGM BO",
     "categorie": "Allumage / préchauffage",
-    "prix_achat": 1605.5,
+    "prix_achat": 1600.0,
     "prix_vente": 1900.0,
-    "stock": 2.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/10750",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": "18.3%"
+    "marge": "18.7%"
   },
   {
     "id": "17400",
