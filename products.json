@@ -255,21 +255,6 @@
     "marge": "13.2%"
   },
   {
-    "id": "9474",
-    "image": "no_image.png",
-    "code": "S4H16",
-    "nom": "BATTERIE L2 BOSCH",
-    "reference": "S4H16 BOSCH",
-    "categorie": "Allumage / préchauffage",
-    "prix_achat": 740.0,
-    "prix_vente": 900.0,
-    "stock": 6.0,
-    "unite": "Pc",
-    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9474",
-    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": "21.6%"
-  },
-  {
     "id": "9370",
     "image": "no_image.png",
     "code": "S4H44",
