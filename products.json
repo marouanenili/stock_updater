@@ -291,13 +291,13 @@
     "nom": "BATTERIE L4D STAR STOP BOSCH/AGM/S5A11",
     "reference": "L4D AGM /BO",
     "categorie": "Allumage / préchauffage",
-    "prix_achat": 1940.0,
-    "prix_vente": 2300.0,
-    "stock": 0.0,
+    "prix_achat": 2120.0,
+    "prix_vente": 2400.0,
+    "stock": 1.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/17400",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": "18.5%"
+    "marge": "13.2%"
   },
   {
     "id": "9083",
