@@ -120,6 +120,21 @@
     "marge": "46.6%"
   },
   {
+    "id": "15952",
+    "image": "no_image.png",
+    "code": "E2D",
+    "nom": "BATTERIE  E2D FIAMM",
+    "reference": "EP35JHTP",
+    "categorie": "Alimentation carburant",
+    "prix_achat": 550.0,
+    "prix_vente": 650.0,
+    "stock": 0.0,
+    "unite": "Pc",
+    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15952",
+    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
+    "marge": "18.1%"
+  },
+  {
     "id": "10320",
     "image": "no_image.png",
     "code": "EK151",
@@ -148,21 +163,6 @@
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/16581",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
     "marge": "21.6%"
-  },
-  {
-    "id": "15952",
-    "image": "no_image.png",
-    "code": "EP35JHTP",
-    "nom": "BATTERIE  E2D ENERGIZER E2D",
-    "reference": "EP35JHTP",
-    "categorie": "Alimentation carburant",
-    "prix_achat": 550.0,
-    "prix_vente": 650.0,
-    "stock": 0.0,
-    "unite": "Pc",
-    "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15952",
-    "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": "18.1%"
   },
   {
     "id": "9104",
