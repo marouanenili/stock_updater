@@ -128,7 +128,7 @@
     "categorie": "Alimentation carburant",
     "prix_achat": 550.0,
     "prix_vente": 650.0,
-    "stock": 0.0,
+    "stock": 1.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/15952",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
