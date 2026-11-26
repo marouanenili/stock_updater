@@ -51,13 +51,13 @@
     "nom": "BATTERIE G7D  BX3335",
     "reference": "YUAYBX3335",
     "categorie": "Allumage / préchauffage",
-    "prix_achat": 1426.56,
+    "prix_achat": 1409.0,
     "prix_vente": 1750.0,
-    "stock": 1.0,
+    "stock": 0.0,
     "unite": "Pc",
     "lien_details": "https://www.riampa-auto.com/auto-amine/admin/products/view/9369",
     "lien_image": "https://www.riampa-auto.com/auto-amine/assets/uploads/no_image.png",
-    "marge": "22.6%"
+    "marge": "24.2%"
   },
   {
     "id": "9130",
